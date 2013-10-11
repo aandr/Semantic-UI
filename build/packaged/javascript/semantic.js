@@ -4445,7 +4445,6 @@ $.fn.dimmer.settings = {
  * http://opensource.org/licenses/MIT
  *
  */
-
 ;(function ( $, window, document, undefined ) {
 
 $.fn.dropdown = function(parameters) {
